@@ -6,6 +6,9 @@ A web application that analyzes potential patent infringements by comparing comp
 
 ![Demo](demo.gif)
 
+### Disclaimer
+Sample OPENAI API KEY used in the project is only for demo purpose. 
+
 ## Quick Start Guide
 
 1. Unzip the project folder:
@@ -78,3 +81,5 @@ Version: 1.1.4
 GitCommit: v1.1.4-0-g5fd4c4d
 docker-init:
 Version: 0.19.0
+
+
